@@ -1,4 +1,4 @@
-# Turborepo starter
+# E Commerce Platform
 
 This Turborepo starter is maintained by the Turborepo core team.
 
